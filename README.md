@@ -30,7 +30,7 @@ El servidor se iniciará en `http://localhost:3000`
 ## Roles de Usuario
 
 ### Registro e Inicio de Sesión
-1. Accede a `http://localhost:3000/login.html`
+1. Accede a `http://localhost:3000/`
 2. Para registrarse, utiliza el formulario de registro, o si ya tienes cuenta, clickea en "Inicia Sesión"
 3. Inicia sesión con tus credenciales
 
