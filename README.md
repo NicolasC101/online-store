@@ -12,7 +12,7 @@ La aplicación es una tienda en línea con dos roles de usuario: Administrador y
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-git clone [URL del repositorio]
+git clone https://github.com/NicolasC101/online-store.git
 cd online-store
 ```
 
