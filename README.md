@@ -1,12 +1,12 @@
 # Manual de Usuario - Aplicación de Tienda en Línea
 
 ## Descripción General
-La aplicación es una tienda en línea con dos roles de usuario: Administrador y Cliente. Permite a los administradores gestionar productos y a los clientes realizar compras.
+La aplicación es una tienda en línea con dos roles de usuario: Administrador y Cliente. Permite a los administradores gestionar productos y a los clientes realizar compras y ver sus facturas (a través del historial de compras).
 
 ## Requisitos Previos
 - Node.js (versión 14 o superior)
 - npm (Node Package Manager)
-- Navegador web moderno (Chrome, Firefox, Safari, Edge)
+- Navegador web (Chrome, Firefox, Safari, Edge, etc)
 
 ## Configuración del Entorno de Desarrollo
 
