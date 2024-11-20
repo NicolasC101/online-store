@@ -1,0 +1,173 @@
+{
+  "purchases": [
+    {
+      "id": "1731823354953",
+      "username": "xd",
+      "date": "2024-11-17T06:02:34.954Z",
+      "items": [
+        {
+          "name": "Prueba",
+          "description": "revisar .json",
+          "price": 10,
+          "quantity": 4
+        }
+      ],
+      "total": 40
+    },
+    {
+      "id": "1731823365360",
+      "username": "xd",
+      "date": "2024-11-17T06:02:45.360Z",
+      "items": [
+        {
+          "name": "Prueba",
+          "description": "revisar .json",
+          "price": 10,
+          "quantity": 6
+        }
+      ],
+      "total": 60
+    },
+    {
+      "id": "1731825812038",
+      "username": "xd",
+      "date": "2024-11-17T06:43:32.038Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100
+    },
+    {
+      "id": "1731828241840",
+      "username": "xd",
+      "date": "2024-11-17T07:24:01.840Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 7,
+          "quantityAvailable": 98
+        }
+      ],
+      "total": 700
+    },
+    {
+      "id": "1731828347760",
+      "username": "xd",
+      "date": "2024-11-17T07:25:47.760Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 5,
+          "quantityAvailable": 91
+        }
+      ],
+      "total": 500
+    },
+    {
+      "id": "1731828397380",
+      "username": "xd",
+      "date": "2024-11-17T07:26:37.380Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 3,
+          "quantityAvailable": 86
+        }
+      ],
+      "total": 300
+    },
+    {
+      "id": "1731828522511",
+      "username": "xd",
+      "date": "2024-11-17T07:28:42.511Z",
+      "items": [],
+      "total": 0
+    },
+    {
+      "id": "1731828530088",
+      "username": "xd",
+      "date": "2024-11-17T07:28:50.088Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 5,
+          "quantityAvailable": 83
+        }
+      ],
+      "total": 500
+    },
+    {
+      "id": "1731829481340",
+      "username": "xd",
+      "date": "2024-11-17T07:44:41.340Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 10,
+          "quantityAvailable": 78
+        }
+      ],
+      "total": 1000
+    },
+    {
+      "id": "1731830335494",
+      "username": "lool",
+      "date": "2024-11-17T07:58:55.494Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 4,
+          "quantityAvailable": 68
+        }
+      ],
+      "total": 400
+    },
+    {
+      "id": "1731869035054",
+      "username": "xd",
+      "date": "2024-11-17T18:43:55.056Z",
+      "items": [
+        {
+          "name": "Prueba 2",
+          "description": "Probando item",
+          "price": 100,
+          "quantity": 20,
+          "quantityAvailable": 64
+        }
+      ],
+      "total": 2000
+    },
+    {
+      "id": "1732060318590",
+      "username": "xd",
+      "date": "2024-11-19T23:51:58.591Z",
+      "items": [
+        {
+          "name": "daniel",
+          "description": "daniel",
+          "price": 1,
+          "quantity": 1,
+          "quantityAvailable": 0
+        }
+      ],
+      "total": 1
+    }
+  ]
+}

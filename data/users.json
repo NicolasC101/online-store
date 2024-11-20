@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "xd",
+      "password": "$2a$10$7cDb1.Ero5HeOyJWDIwXqeY2eCjC9rPMgr56Iayt/crJOf4JFU3JK",
+      "role": "user"
+    },
+    {
+      "username": "dx",
+      "password": "$2a$10$ZkYulVcrRe1HEETXRQz3Ku1CpeIbmVXCuRLi0RctH7gNbxuQudiNK",
+      "role": "admin"
+    }
+  ]
+}

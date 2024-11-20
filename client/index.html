@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registro</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Registro</h1>
+  <form id="registerForm">
+    <input type="text" id="username" placeholder="Usuario" required>
+    <input type="password" id="password" placeholder="Contraseña" required>
+    <select id="role">
+      <option value="user">Usuario</option>
+      <option value="admin">Administrador</option>
+    </select>
+    <button type="submit">Registrarse</button>
+  </form>
+  <p id="message"></p>
+  <p class="redirect-text">¿Ya tienes cuenta? <a href="login.html">Inicia sesión</a></p>
+  <script src="main.js"></script>
+</body>
+</html>

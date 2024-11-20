@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Prueba",
+      "description": "revisar .json",
+      "price": 10,
+      "quantity": 0
+    },
+    {
+      "name": "Prueba 2",
+      "description": "Probando item",
+      "price": 100,
+      "quantity": 45
+    },
+    {
+      "name": "daniel",
+      "description": "daniel",
+      "price": 1,
+      "quantity": 0
+    }
+  ]
+}

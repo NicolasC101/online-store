@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la tienda</h1>
+        <div id="userInfo"></div>
+        <button id="logoutBtn">Cerrar Sesión</button>
+    </header>
+
+    <!-- Sección solo visible para administradores -->
+    <div id="adminSection" style="display: none;">
+        <h2>Panel de Administrador</h2>
+        <form id="addProductForm">
+            <input type="text" id="productName" placeholder="Nombre del producto" required>
+            <input type="text" id="productDescription" placeholder="Descripción" required>
+            <input type="number" id="productPrice" placeholder="Precio" required>
+            <input type="number" id="productQuantity" placeholder="Cantidad disponible" required>
+            <button type="submit">Agregar Producto</button>
+        </form>
+    </div>
+
+    <!-- Sección visible para todos -->
+    <div id="productList">
+        <h2>Productos Disponibles</h2>
+        <div id="products"></div>
+    </div>
+
+    <!-- Sección solo visible para clientes -->
+    <div id="clientSection" style="display: none;">
+      <h2>Productos Disponibles</h2>
+      <div id="products"></div>
+      
+      <div id="cart">
+          <h2>Carrito de Compras</h2>
+          <div id="cartItems"></div>
+          <div id="cartTotal">Total: $0.00</div>
+          <button id="checkout">Realizar Compra</button>
+      </div>
+  
+      <div id="purchaseHistory">
+          <h2>Historial de Compras</h2>
+          <!-- Aquí se mostrarán las compras/facturas -->
+      </div>
+  </div>
+
+    <script src="shop.js"></script>
+</body>
+</html>
